@@ -1,17 +1,10 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Worker",
+		"unitType": "Civilian",
+		"replaces": "Worker",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"uniques": ["Can instantly construct a [Land] improvement", "Automation is a primary action"],
+		"cost": 70
 	}
 ]
