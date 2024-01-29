@@ -1,5 +1,12 @@
-[
-    {
-        "unitsToRemove": "Worker"
-    }
-]
+
+{
+    "unitsToRemove": "Worker"
+}
+{
+    "lastUpdated": "1/27/2024",
+    "modUrl": "https://github.com/Cody64yt/Real-Builders",
+    "defaultBranch": "main",
+    "author": "Cody64",
+    "modSize": 1,
+    "topics": [""]
+}
